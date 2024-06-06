@@ -4,3 +4,4 @@
 4. git commit: Agrega archivos del staging area al repositorio git 
 5. git log: Te lista todos los commits realizados
 6. cualquier webada.
+7. porsiacaso
