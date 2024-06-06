@@ -5,3 +5,4 @@
 5. git log: Te lista todos los commits realizados
 6. cualquier webada.
 7. porsiacaso
+8. .gitignore : ignora archivos o carpetas.
