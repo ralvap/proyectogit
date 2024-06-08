@@ -6,3 +6,4 @@
 6. cualquier webada.
 7. porsiacaso
 8. .gitignore : ignora archivos o carpetas.
+9. git push -u origin main: Sube archivos a repositorio 
